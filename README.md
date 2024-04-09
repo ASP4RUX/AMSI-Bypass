@@ -1,0 +1,2 @@
+# AMSI-Bypass
+Bypass AMSI 
